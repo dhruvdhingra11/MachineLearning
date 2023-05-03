@@ -1,3 +1,6 @@
+Use some function for neural networks, like Stochastic Gradient Descent or back propagation
+- algorithm to predict the value of a variable based on the dataset of problem 14
+
 from numpy import *
 import pandas as pd
 from sklearn.neural_network import MLPClassifier
